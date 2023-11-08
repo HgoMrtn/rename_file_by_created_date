@@ -16,7 +16,7 @@ cd repository
 2. **Run the Script:**
 
 ```bash
-python rename-files-by-created-date.py
+python rename_files_by_created_date.py
 ```
 
 
